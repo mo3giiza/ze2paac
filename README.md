@@ -16,13 +16,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=AAFF00&width=360&lines=%E2%96%91A%E2%96%91C%E2%96%91C%E2%96%91E%E2%96%91S%E2%96%91S%E2%96%91+%E2%96%91G%E2%96%91A%E2%96%91I%E2%96%91N%E2%96%91E%E2%96%91D%E2%96%91">
   <br>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=AAFF00&size=25&lines=Welcome+To+My+Profile..+!!;I%27m+Bug+Hunter..;I'm+CTF+Player..;" width="500" height="200" />
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="600"/>
 </div>
 
 <br>
 <br>
 <div align="center">
-   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="600"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=AAFF00&size=25&lines=Welcome+To+My+Profile..+!!;I%27m+Bug+Hunter..;I'm+CTF+Player..;" width="500" height="200" />
+   
   <br>
   <br>
    <img src='https://visitor-badge.glitch.me/badge?page_id=ze2paac' width="125" />
