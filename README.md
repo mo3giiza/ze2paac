@@ -4,8 +4,13 @@
 </div>
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=AAFF00&size=25&lines=Welcome+To+My+Profile..+!!;I%27m+Bug+Hunter..;I'm+CTF+Player..;" width="500" height="200" />
-  
+  <!--<img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=AAFF00&size=25&lines=Welcome+To+My+Profile..+!!;I%27m+Bug+Hunter..;I'm+CTF+Player..;" width="500" height="200" />-->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=AAFF00&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5Bze2pac%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;D3vil0p3r%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
+
+&nbsp;
+<!--💬GREETINGSTITLE / FONTS: https://www.thefancytext.com/ and then paste on 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=AAFF00&width=360&lines=%E2%96%91A%E2%96%91C%E2%96%91C%E2%96%91E%E2%96%91S%E2%96%91S%E2%96%91+%E2%96%91G%E2%96%91A%E2%96%91I%E2%96%91N%E2%96%91E%E2%96%91D%E2%96%91">
 </div>
 
 <br>
