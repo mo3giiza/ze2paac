@@ -5,7 +5,7 @@
 
 [https://github-profile-trophy.vercel.app/?username=ze2paac&theme=dark_lover&row=1&column=3](https://github-profile-trophy.vercel.app/?username=ze2paac&theme=dark_lover&row=1&column=3)
 
-<h2 align="center">Languages And Tools:</h2>
+<h2 align="center">Languages:</h2>
 
 <br>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<a href= https://github.com/ze2paac> <img width ='32px' src ='icons/linux.svg'></a>
+<a href= https://github.com/ze2paac> <img width ='38px' src ='icons/linux.svg'></a>
 <a href= https://github.com/ze2paac> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834'></a>
 <a href= https://github.com/ze2paac> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/632px-Parrot_Logo.png?20191030192001'></a>
 <a href= https://github.com/ze2paac> <img width ='32px' src ='https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg'></a>
@@ -103,7 +103,7 @@
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="700"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
 
 </div>
