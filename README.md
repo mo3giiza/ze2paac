@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Azab aka ze2pac</h1>
 <h3 align="center">Bug Hunter && CTF Player</h3>
 
-<a href='https://visitor-badge.glitch.me/badge?page_id=ze2paac'>
+<a href='https://github.com/ze2paac' src='https://visitor-badge.glitch.me/badge?page_id=ze2paac'>
 
 [https://github-profile-trophy.vercel.app/?username=ze2paac&theme=dark_lover&row=1&column=3](https://github-profile-trophy.vercel.app/?username=ze2paac&theme=dark_lover&row=1&column=3)
 
