@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <img src='https://visitor-badge.glitch.me/badge?page_id=ze2paac' width="200" />
+  <img src='https://visitor-badge.glitch.me/badge?page_id=ze2paac' width="175" />
   
 </div>
 
