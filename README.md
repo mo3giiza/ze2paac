@@ -21,10 +21,10 @@
 
 <br>
 <br>
-<br>
-
 <div align="center">
-
+   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="600"/>
+  <br>
+  <br>
    <img src='https://visitor-badge.glitch.me/badge?page_id=ze2paac' width="125" />
   <!--<img src="https://komarev.com/ghpvc/?username=ze2paac" width="200" />-->
   
@@ -143,7 +143,7 @@
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="900"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="600"/>
+<!--<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="600"/>-->
 
 </div>
 
