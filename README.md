@@ -2,11 +2,14 @@
 
   <h1 align="center">Hi 👋, I'm <a href="https://github.com/ze2paac">Muhammed Azab</a> aka ze2pac</h1>
 </div>
-<div align="center">
+<div align="left">
 
   <!--<img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=AAFF00&size=25&lines=Welcome+To+My+Profile..+!!;I%27m+Bug+Hunter..;I'm+CTF+Player..;" width="500" height="200" />-->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=AAFF00&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5Bze2pac%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;D3vil0p3r%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=AAFF00&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5Bze2pac%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;ze2pac%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
 
+</div>
+
+<div align="center">
 &nbsp;
 <!--💬GREETINGSTITLE / FONTS: https://www.thefancytext.com/ and then paste on 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
