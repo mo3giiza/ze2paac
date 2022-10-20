@@ -26,7 +26,7 @@
    
   <br>
   <br>
-   <img src='https://visitor-badge.glitch.me/badge?page_id=ze2paac' width="125" />
+   <img src='https://visitor-badge.glitch.me/badge?page_id=ze2paac' width="175" />
   <!--<img src="https://komarev.com/ghpvc/?username=ze2paac" width="200" />-->
   
 </div>
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-  <img src='https://github-profile-trophy.vercel.app/?username=ze2paac&theme=dark_lover&row=1&column=3' />
+  <img src='https://github-profile-trophy.vercel.app/?username=ze2paac&theme=merko&row=1&column=3' width="300" />
   
 </div>
 
