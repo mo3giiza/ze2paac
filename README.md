@@ -3,7 +3,7 @@
 
 <a href='https://github.com/ze2paac' src='https://visitor-badge.glitch.me/badge?page_id=ze2paac'>
 
-[https://github-profile-trophy.vercel.app/?username=ze2paac&theme=dark_lover&row=1&column=3](https://github-profile-trophy.vercel.app/?username=ze2paac&theme=dark_lover&row=1&column=3)
+<img src='https://github-profile-trophy.vercel.app/?username=ze2paac&theme=dark_lover&row=1&column=3' width="400"/>
 
 <h2 align="center">Languages:</h2>
 
@@ -93,7 +93,7 @@
 
 <div align="center">
 
-[https://github-readme-stats.vercel.app/api?username=ze2paac&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=ze2paac&show_icons=true&theme=dark)
+<img src='https://github-readme-stats.vercel.app/api?username=ze2paac&show_icons=true&theme=dark' width="700"/>
 
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=ze2paac&theme=dark&date_format=M%20j%5B%2C%20Y%5D' width="700"/>
 
