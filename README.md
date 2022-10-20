@@ -3,7 +3,7 @@
 
 <a href='https://github.com/ze2paac' src='https://visitor-badge.glitch.me/badge?page_id=ze2paac'>
 
-<img src='https://github-profile-trophy.vercel.app/?username=ze2paac&theme=dark_lover&row=1&column=3' width="400"/>
+<img align="center" src='https://github-profile-trophy.vercel.app/?username=ze2paac&theme=dark_lover&row=1&column=3' width="400"/>
 
 <h2 align="center">Languages:</h2>
 
