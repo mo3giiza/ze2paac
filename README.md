@@ -130,9 +130,9 @@
 
 <div align="center">
 
-<img src='https://github-readme-stats.vercel.app/api?username=ze2paac&show_icons=true&theme=dark' width="600"/>
+<img src='https://github-readme-stats.vercel.app/api?username=ze2paac&show_icons=true&theme=merko' width="600"/>
 
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=ze2paac&theme=dark&date_format=M%20j%5B%2C%20Y%5D' width="600"/>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=ze2paac&theme=merko&date_format=M%20j%5B%2C%20Y%5D' width="600"/>
 
 </div>
 
