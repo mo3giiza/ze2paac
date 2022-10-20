@@ -29,7 +29,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=AAFF00&size=25&lines=Welcome+To+My+Profile..+!!;I%27m+Bug+Hunter..;I'm+CTF+Player..;" width="500" height="200" />
    
   <br>
-  <br>
    <img src='https://visitor-badge.glitch.me/badge?page_id=ze2paac' width="175" />
   <!--<img src="https://komarev.com/ghpvc/?username=ze2paac" width="200" />-->
   
