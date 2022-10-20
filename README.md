@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+back-end+Developer;I'm+a+Penetration+Tester" />
+  <img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I%27m+a+Bug+Hunter;I%27m+CTF+Player;" />
   
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img src='https://visitor-badge.glitch.me/badge?page_id=ze2paac' width="175" />
+  <img src='https://visitor-badge.glitch.me/badge?page_id=ze2paac' width="125" />
   
 </div>
 
