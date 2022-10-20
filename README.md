@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 align="center">Hi 👋, I'm Muhammed Azab aka ze2pac</h1>
+  <h1 align="center">Hi 👋, I'm <a href="https://github.com/ze2paac">Muhammed Azab</a> aka ze2pac</h1>
 </div>
 <div align="center">
 
