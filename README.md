@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=green&size=20&lines=Hello+Friend,+Welcome+To+My+GitHub+Profile..+!;I%27m+A+Bug+Hunter+And+CTF+Player;" width="600" height="250" />
+  <img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=green&size=25&lines=Welcome+To+My+GitHub+Profile...+!!;I%27m+A+Bug+Hunter+And+CTF+Player;" width="600" height="200" />
   
 </div>
 
