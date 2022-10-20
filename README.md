@@ -12,7 +12,8 @@
 
 <div align="center">
 
-  <img src='https://visitor-badge.glitch.me/badge?page_id=ze2paac' width="125" />
+  <!-- <img src='https://visitor-badge.glitch.me/badge?page_id=ze2paac' width="125" /> -->
+  <img src="https://komarev.com/ghpvc/?username=ze2paac" width="200" />
   
 </div>
 
