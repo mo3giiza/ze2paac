@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Muhammed Azab aka ze2pac</h1>
-<h3 align="center">Bug Hunter && CTF Player</h3>
+<div align="center">
 
-<a href='https://github.com/ze2paac' src='https://visitor-badge.glitch.me/badge?page_id=ze2paac'>
+  <h1 align="center">Hi 👋, I'm Muhammed Azab aka ze2pac</h1>
+  <h3 align="center">Bug Hunter && CTF Player</h3>
+  
+</div>
 
+<div align="center">
+
+  <img src='https://visitor-badge.glitch.me/badge?page_id=ze2paac'>
+  
+</div>
 
 <div align="center">
 
