@@ -83,7 +83,7 @@
   
 <a href = 'https://linkedin.com/in/ze2pac'> <img width = '32px' align= 'center' src="./icons/linked-in-alt.svg"/></a>
 <a href = 'https://twitter.com/ze2paac'> <img width = '32px' align= 'center' src="./icons/twitter.svg"/></a>
-<a href = 'https://tryhackme.com/p/ze2paac'> <img width = '32px' align= 'center' src="tryhackme_logo_full.svg"/></a>
+<a href = 'https://tryhackme.com/p/ze2paac'> <img width = '32px' align= 'center' src="./icons/tryhackme_logo_full.svg"/></a>
 <a href = 'https://www.github.com/ze2paac'> <img width = '32px' align= 'center' src='./icons/github.svg'/></a>
 <a href = 'https://www.facebook.com/ze2paac'> <img width = '32px' align= 'center' src='./icons/facebook.svg'/></a>
   
