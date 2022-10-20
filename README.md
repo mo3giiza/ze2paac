@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<a href= https://github.com/ze2paac> <img width ='45px' src ='[https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350)'></a>
+<a href= https://github.com/ze2paac> <img width ='45px' src ='https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350'></a>
 <a href= https://github.com/ze2paac> <img width ='45px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png'></a>
 <a href= https://github.com/ze2paac> <img width ='45px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'></a>
 <a href= https://github.com/ze2paac> <img width ='45px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'></a>
