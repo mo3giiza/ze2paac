@@ -95,7 +95,7 @@
 
 [https://github-readme-stats.vercel.app/api?username=ze2paac&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=ze2paac&show_icons=true&theme=dark)
 
-[https://github-readme-streak-stats.herokuapp.com/?user=ze2paac&theme=dark&date_format=M%20j%5B%2C%20Y%5D](https://github-readme-streak-stats.herokuapp.com/?user=ze2paac&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=ze2paac&theme=dark&date_format=M%20j%5B%2C%20Y%5D' width="700"/>
 
 </div>
 
@@ -103,8 +103,8 @@
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="300"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="700"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="350"/>
 
 </div>
 
