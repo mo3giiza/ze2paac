@@ -35,7 +35,7 @@
 
 <div align="center">
 
-  <img src='https://github-profile-trophy.vercel.app/?username=ze2paac&theme=merko&row=1&column=3' width="300" />
+  <img src='https://github-profile-trophy.vercel.app/?username=ze2paac&theme=dark_lover&row=1&column=3' width="300" />
   
 </div>
 
