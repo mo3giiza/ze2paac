@@ -107,10 +107,10 @@
 
 <a href= https://github.com/ze2paac> <img width ='70px' src ='icons/linux.svg'></a>
 <a href= https://github.com/ze2paac> <img width ='69px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834'></a>
-<a href= https://github.com/ze2paac> <img width ='68px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/632px-Parrot_Logo.png?20191030192001'></a>
-<a href= https://github.com/ze2paac> <img width ='67px' src ='https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='65px' src ='https://www.debian.org/logos/openlogo-nd.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='65px' src ='https://tails.boum.org/contribute/how/promote/material/logo/tails-logo-square-inverted-notagline.svg'></a>
+<a href= https://github.com/ze2paac> <img width ='64px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/632px-Parrot_Logo.png?20191030192001'></a>
+<a href= https://github.com/ze2paac> <img width ='62px' src ='https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg'></a>
+<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.debian.org/logos/openlogo-nd.svg'></a>
+<a href= https://github.com/ze2paac> <img width ='60px' src ='https://tails.boum.org/contribute/how/promote/material/logo/tails-logo-square-inverted-notagline.svg'></a>
 
 </div>
 
