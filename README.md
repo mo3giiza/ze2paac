@@ -125,7 +125,7 @@
 <a href = 'https://www.github.com/ze2paac'> <img width = '80px' align= 'center' src='./icons/github.svg'/></a>
 <a href = 'https://www.facebook.com/ze2paac'> <img width = '80px' align= 'center' src='./icons/facebook.svg'/></a>
 <a href = 'https://t.me/ze2paac'> <img width = '80px' align= 'center' src='./icons/telegram.svg'/></a>
-<a href = 'wa.me/+201146338980'> <img width = '80px' align= 'center' src='./icons/whatsapp.svg'/></a>
+<a href = 'http://wa.me/+201146338980'> <img width = '80px' align= 'center' src='./icons/whatsapp.svg'/></a>
 <a href = 'ze2paac@gmail.com'> <img width = '80px' align= 'center' src='./icons/gmail.svg'/></a>
 <a href = 'https://tryhackme.com/p/ze2paac'> <img width = '75px' align= 'center' src="./icons/tryhackme.svg"/></a>
   
