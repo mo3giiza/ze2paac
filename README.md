@@ -125,6 +125,9 @@
 <a href = 'https://tryhackme.com/p/ze2paac'> <img width = '65px' align= 'center' src="./icons/tryhackme_logo_full.svg"/></a>
 <a href = 'https://www.github.com/ze2paac'> <img width = '65px' align= 'center' src='./icons/github.svg'/></a>
 <a href = 'https://www.facebook.com/ze2paac'> <img width = '65px' align= 'center' src='./icons/facebook.svg'/></a>
+<a href = 'https://t.me/ze2paac'> <img width = '65px' align= 'center' src='./icons/facebook.svg'/></a>
+<a href = 'wa.me/+201146338980'> <img width = '65px' align= 'center' src='./icons/facebook.svg'/></a>
+<a href = 'ze2paac@gmail.com'> <img width = '65px' align= 'center' src='./icons/gmail.svg'/></a>
   
 </div>
 
@@ -138,7 +141,7 @@
   
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=ze2paac&theme=merko&date_format=M%20j%5B%2C%20Y%5D' width="600"/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ze2paac&theme=chartreuse-dark" width="100%">
+<!--<img src="https://activity-graph.herokuapp.com/graph?username=ze2paac&theme=chartreuse-dark" width="100%">-->
 
 </div>
 
