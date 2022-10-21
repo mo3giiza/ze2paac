@@ -54,7 +54,7 @@
 <a href= https://github.com/ze2paac> <img width ='65px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png'></a>
 <a href= https://github.com/ze2paac> <img width ='65px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'></a>
 <a href= https://github.com/ze2paac> <img width ='65px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='65px' src ='icons/sql.svg'></a>
+<a href= https://github.com/ze2paac> <img width ='65px' src ='icons/mysql.svg'></a>
 <a href= https://github.com/ze2paac> <img width ='65px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg'></a>
 <a href= https://github.com/ze2paac> <img width ='65px' src ='https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png'></a>
 
@@ -125,8 +125,8 @@
 <a href = 'https://tryhackme.com/p/ze2paac'> <img width = '65px' align= 'center' src="./icons/tryhackme_logo_full.svg"/></a>
 <a href = 'https://www.github.com/ze2paac'> <img width = '65px' align= 'center' src='./icons/github.svg'/></a>
 <a href = 'https://www.facebook.com/ze2paac'> <img width = '65px' align= 'center' src='./icons/facebook.svg'/></a>
-<a href = 'https://t.me/ze2paac'> <img width = '65px' align= 'center' src='./icons/facebook.svg'/></a>
-<a href = 'wa.me/+201146338980'> <img width = '65px' align= 'center' src='./icons/facebook.svg'/></a>
+<a href = 'https://t.me/ze2paac'> <img width = '65px' align= 'center' src='./icons/telegram.svg'/></a>
+<a href = 'wa.me/+201146338980'> <img width = '65px' align= 'center' src='./icons/whatsapp.svg'/></a>
 <a href = 'ze2paac@gmail.com'> <img width = '65px' align= 'center' src='./icons/gmail.svg'/></a>
   
 </div>
