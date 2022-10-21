@@ -19,9 +19,9 @@
   <br>
   <br>
   
-<div align="center">
+<!--<div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="600"/>
-</div>
+</div>-->
 
 <br>
 <br>
