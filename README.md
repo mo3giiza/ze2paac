@@ -141,7 +141,7 @@
   
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=ze2paac&theme=merko&date_format=M%20j%5B%2C%20Y%5D' width="600"/>
 
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=ze2paac&theme=chartreuse-dark" width="100%">-->
+<img src="https://activity-graph.herokuapp.com/graph?username=ze2paac&theme=chartreuse-dark" width="100%">
 
 </div>
 
