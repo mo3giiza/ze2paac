@@ -79,6 +79,7 @@
 <a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/wpscan/images/wpscan-logo.svg'></a>
 <a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg'></a>
 <a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/jsql/images/jsql-logo.svg'></a>
+<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/wafw00f/images/wafw00f-logo.svg'></a>
 <a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/nikto/images/nikto-logo.svg'></a>
 <a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/medusa/images/medusa-logo.svg'></a>
 <a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/hydra/images/hydra-logo.svg'></a>
